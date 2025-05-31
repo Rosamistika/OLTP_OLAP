@@ -6,6 +6,7 @@ This project, completed for DSA 2040A – 2025 Lab2, focuses on building a retai
 
 The project is based on the extended lab manual “OLTP + OLAP Integration for Retail Analytics” and includes the following components:
 
+
  OLTP schema design for real-time data capture
 
  OLAP star schema construction for reporting and analysis
