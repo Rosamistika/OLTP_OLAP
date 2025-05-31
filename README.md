@@ -4,6 +4,21 @@
 
 This project, completed for DSA 2040A – 2025 Lab2, focuses on building a retail data pipeline that integrates OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing) systems using MySQL. The objective of the project is to simulate a real-world retail setup by designing a transactional schema, transforming data into a star schema, running analytical queries, and documenting key insights.
 
+The project is based on the extended lab manual “OLTP + OLAP Integration for Retail Analytics” and includes the following components:
+
+ OLTP schema design for real-time data capture
+
+ OLAP star schema construction for reporting and analysis
+
+ CSV data import 
+
+ETL process from OLTP to OLAP using SQL
+
+ Analytical SQL queries for business insights
+
+ Documentation via a structured GitHub repository
+
+
 # Collaborators
 
 -Innocent Iranzi 670513
