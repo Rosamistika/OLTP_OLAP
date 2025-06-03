@@ -19,6 +19,19 @@ ETL process from OLTP to OLAP using SQL
 
  Documentation via a structured GitHub repository
 
+ ##  Project Structure
+ 
+- `/oltp_schema/`: Contains the transactional schem
+  
+- `/olap_schema/`: Contains the star schema
+  
+- `/etl_scripts/`: SQL for ETL operations
+  
+- `/sample_data/`: Placeholder for CSV files (optional)
+  
+- `/queries/`: SQL queries for business analytics
+
+
 
 # Collaborators
 
