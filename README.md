@@ -31,6 +31,16 @@ The project is based on the extended lab manual “OLTP + OLAP Integration for R
   
 - `/queries/`: SQL queries for business analytics
 
+  # Reflection Questions:
+  
+1. Why is the OLTP system normalized and the OLAP system denormalized?
+   
+2. What challenges would you face if you ran analytical queries directly on the OLTP
+system?
+
+3. How can automation (e.g., scheduled ETL jobs) help in a real-world data
+pipeline?
+
 
 
 # Collaborators
